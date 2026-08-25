@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/riya-umesh-singh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/riya-umesh-singh/DSA/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/riya-umesh-singh/DSA/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/riya-umesh-singh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/riya-umesh-singh/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
