@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya-umesh-singh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/riya-umesh-singh/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riya-umesh-singh/DSA/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/riya-umesh-singh/DSA/tree/master/0257-binary-tree-paths) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya-umesh-singh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/riya-umesh-singh/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/riya-umesh-singh/DSA/tree/master/0283-move-zeroes) |
 ## Breadth-First Search
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/riya-umesh-singh/DSA/tree/master/0257-binary-tree-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya-umesh-singh/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya-umesh-singh/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
