@@ -6,19 +6,15 @@
 #         self.right = right
 class Solution:
     def preorderTraversal(self, root):
-     result = []
+     result=[]
      def preorder(node):
-
         if node is None:
             return
-
         result.append(node.val)
         preorder(node.left)
-        preorder(node.right)
+        preorder(node.right) 
      preorder(root)
-    
-     return result
-        
+     return result       
 
 
 
