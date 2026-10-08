@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/riya-umesh-singh/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/riya-umesh-singh/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/riya-umesh-singh/DSA/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/riya-umesh-singh/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/riya-umesh-singh/DSA/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/riya-umesh-singh/DSA/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
