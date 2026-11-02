@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riya-umesh-singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riya-umesh-singh/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/riya-umesh-singh/DSA/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riya-umesh-singh/DSA/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/riya-umesh-singh/DSA/tree/master/0946-validate-stack-sequences) |
@@ -156,9 +157,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
