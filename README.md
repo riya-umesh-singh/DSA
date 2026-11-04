@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riya-umesh-singh/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/riya-umesh-singh/DSA/tree/master/0946-validate-stack-sequences) |
 ## Stack
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/riya-umesh-singh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/riya-umesh-singh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/riya-umesh-singh/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/riya-umesh-singh/DSA/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riya-umesh-singh/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/riya-umesh-singh/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
