@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/riya-umesh-singh/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/riya-umesh-singh/DSA/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/riya-umesh-singh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riya-umesh-singh/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/riya-umesh-singh/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/riya-umesh-singh/DSA/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/riya-umesh-singh/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/riya-umesh-singh/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/riya-umesh-singh/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
