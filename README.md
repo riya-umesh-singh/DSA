@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/riya-umesh-singh/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riya-umesh-singh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riya-umesh-singh/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/riya-umesh-singh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/riya-umesh-singh/DSA/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/riya-umesh-singh/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/riya-umesh-singh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-umesh-singh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/riya-umesh-singh/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
